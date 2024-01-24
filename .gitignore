@@ -1,4 +1,3 @@
 build/
-external/SDL
-external/SDL/*
-.gitmodules
+# external/SDL
+# external/SDL/*
