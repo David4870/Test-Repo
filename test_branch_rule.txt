@@ -1,0 +1,1 @@
+Test pull request requiring before merging for main branch protection rule.
